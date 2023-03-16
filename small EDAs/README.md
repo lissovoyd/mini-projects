@@ -1,1 +1,1 @@
-
+Here are the mini projects that I did for online courses, tasks for which could have been taken by the authors from open sources like Kaggle. However, the code for these projects was written entirely by me.
