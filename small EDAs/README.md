@@ -1,1 +1,1 @@
-### Here are the mini projects that I did for online courses (some tasks might have been taken by the authors from open sources like Kaggle, DataCamp, etc.) However, the code for these projects was written entirely by me.
+#### Here are the mini projects that I did for online courses (some tasks might have been taken by the authors from open sources like Kaggle, DataCamp, etc.) However, the code for these projects was written entirely by me.
